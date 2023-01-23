@@ -152,7 +152,7 @@ proxy-groups:
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
-    interval: 300
+    interval: 10
     proxies:
       - youtube@资源分享师_1
       - youtube@资源分享师_2
