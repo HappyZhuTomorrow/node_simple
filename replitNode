@@ -1,0 +1,3 @@
+vmess=nodeVmess.rickmorty10.repl.co:443, method=aes-128-gcm, password=e5ca72f1-c98d-4a2c-9dd1-f8a3794c006e, obfs=wss, obfs-host=nodeVmess.rickmorty10.repl.co, obfs-uri=/e5ca72f1-c98d-4a2c-9dd1-f8a3794c006e, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=replit_xray_vmess
+
+trojan=v2.rickmorty10.repl.co:443, password=445c3345-ff20-4bf7-9c8a-41d8e604269b, obfs=wss, obfs-host=v2.rickmorty10.repl.co, obfs-uri=/?ed=2048, tls-verification=false, fast-open=false, udp-relay=false, tag=replit_xray_trojan
