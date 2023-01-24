@@ -1,3 +1,2 @@
 vmess=nodeVmess.rickmorty10.repl.co:443, method=aes-128-gcm, password=e5ca72f1-c98d-4a2c-9dd1-f8a3794c006e, obfs=wss, obfs-host=nodeVmess.rickmorty10.repl.co, obfs-uri=/e5ca72f1-c98d-4a2c-9dd1-f8a3794c006e, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=美国01
-
-vmess://eyJ2IjogIjIiLCJwcyI6ICLnvo7lm70yIiwiYWRkIjogInYxLnJpY2ttb3J0eTEwLnJlcGwuY28iLCJwb3J0IjogIjQ0MyIsImlkIjogIjFkMzZkNzliLWRlZGItNGE0My1hNDkyLTk4MWI0MWZkMTVmMCIsImFpZCI6ICIwIiwibmV0IjogIndzIiwidHlwZSI6ICJub25lIiwiaG9zdCI6ICJ2MS5yaWNrbW9ydHkxMC5yZXBsLmNvIiwicGF0aCI6ICIvMWQzNmQ3OWItZGVkYi00YTQzLWE0OTItOTgxYjQxZmQxNWYwIiwidGxzIjogInRscyJ9
+vmess=v1.rickmorty10.repl.co:443, method=aes-128-gcm, password=1d36d79b-dedb-4a43-a492-981b41fd15f0, obfs=wss, obfs-host=v1.rickmorty10.repl.co, obfs-uri=/1d36d79b-dedb-4a43-a492-981b41fd15f0, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=美国2
